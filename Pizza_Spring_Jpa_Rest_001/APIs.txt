@@ -1,0 +1,14 @@
+
+
+
+// http://localhost:8084/api/pizza/items/list
+// http://localhost:8084/api/pizza/finditems/30
+//http://localhost:8084/api/pizza/removeitems/32
+//http://localhost:8084/api/pizza/pizzaitems/add
+
+
+
+//http://localhost:8084/api/pizza/ingredients/list
+//http://localhost:8084/api/pizza/findingredients/1000
+//http://localhost:8084/api/pizza/removeingredient/1000
+//http://localhost:8084/api/pizza/pizzaingredients/add

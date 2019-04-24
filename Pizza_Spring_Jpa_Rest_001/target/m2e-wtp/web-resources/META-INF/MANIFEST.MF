@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Pizza_Spring_Jpa_Rest_001
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.smita.springboot
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Pizza_Spring_Jpa_Rest_001
+Created-By: Maven Integration for Eclipse
+
